@@ -50,7 +50,7 @@
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <div style="display: inline_block">
     <img align="center" alt="Candy-Canva" height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    <img align="center" alt="Candy-Photoshop" height="30"  src="[https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black](https://aleen42.github.io/badges/src/photoshop.svg)">
+    <img align="center" alt="Candy-Photoshop" height="30"  src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img align="center" alt="Candy-Styled" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
     <img align="center" alt="Candy-JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Candy-CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
