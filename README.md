@@ -1,8 +1,10 @@
 ### Hi!👋  I´m Candy
 ##
+<br>
 <div>
-<img align="right" alt="Candy-pic" height="250" style="border-radius:50px;" src="./kalah.jpg">
+<img align="center" alt="Candy-pic" height="250" style="border-radius:50px;" src="./kalah.jpg">
 </div>
+<br>
 
 - 🔭 Always ready for work.
 - 🌱 I’m currently learning react native.
