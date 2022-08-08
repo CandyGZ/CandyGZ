@@ -1,7 +1,7 @@
 ### Hi!👋  I´m Candy
 ##
 <div>
-<img align="right" alt="Candy-pic" height="250" style="border-radius:50px;" src="https://www.facebook.com/photo/?fbid=10227845448590058&set=a.2834298665014">
+<img align="right" alt="Candy-pic" height="250" style="border-radius:50px;" src="./kalah.jpg">
 </div>
 
 - 🔭 Always ready for work.
