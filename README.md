@@ -26,8 +26,8 @@
   
 <div align="center">
   <a href="https://www.github.com/CandyGZ">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=eevee147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eevee147&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CarlaSalHua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?CarlaSalHua&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ### TECHNOLOGIES:
@@ -39,7 +39,6 @@
   <img  align="center" alt="Candy-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Candy-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Candy-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-  <img align="center" alt="Candy-LinuxP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Candy-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    />
   <img align="center" alt="Candy-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
@@ -48,8 +47,8 @@
   <br>
   
   <div style="display: inline_block">
-    <img align="center" alt="Candy-Ubuntu" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img align="center" alt="Candy-Photoshop" height="30"  src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=purple">
+    <img align="center" alt="Candy-Canva" height="30" src="https://img.shields.io/badge/Canva-E95420?style=for-the-badge&logo=canva&logoColor=white">
+    <img align="center" alt="Candy-Photoshop" height="30"  src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=31A8FF">
     <img align="center" alt="Candy-Styled" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
     <img align="center" alt="Candy-React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Candy-Native" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">        
