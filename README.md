@@ -26,8 +26,9 @@
   
 <div align="center">
   <a href="https://www.github.com/CandyGZ">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CarlaSalHua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?CarlaSalHua&layout=compact&langs_count=7&theme=dracula"/>
+    //https://github-profile-summary-cards.vercel.app/demo.html
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=eevee147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CandyGZ&theme=gruvbox"/>
+  <img height="130em" src="[https://github-readme-stats.vercel.app/api/top-langs/?eevee147&layout=compact&langs_count=7&theme=dracula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CandyGZ&theme=gruvbox&utcOffset=8)"/>
 </div>
 
   ### TECHNOLOGIES:
