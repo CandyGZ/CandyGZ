@@ -47,13 +47,18 @@
   <img align="center" alt="Candy-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
   <br>
-  
+  //https://dev.to/envoy_/150-badges-for-github-pnk
   <div style="display: inline_block">
-    <img align="center" alt="Candy-Canva" height="30" src="https://img.shields.io/badge/Canva-E95420?style=for-the-badge&logo=canva&logoColor=white">
-    <img align="center" alt="Candy-Photoshop" height="30"  src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=31A8FF">
+    <img align="center" alt="Candy-Canva" height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <img align="center" alt="Candy-Photoshop" height="30"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
     <img align="center" alt="Candy-Styled" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    <img align="center" alt="Candy-JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="Candy-CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+     <img align="center" alt="Candy-Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img align="center" alt="Candy-React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Candy-Native" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">        
+    <img align="center" alt="Candy-Native" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+     <img align="center" alt="Candy-Firebase" height="30" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">  
+    
   </div>
   
   ##
