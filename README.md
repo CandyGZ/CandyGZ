@@ -47,7 +47,7 @@
   <img align="center" alt="Candy-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
   <br>
-  //https://dev.to/envoy_/150-badges-for-github-pnk
+  <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <div style="display: inline_block">
     <img align="center" alt="Candy-Canva" height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     <img align="center" alt="Candy-Photoshop" height="30"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
