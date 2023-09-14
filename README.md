@@ -63,4 +63,7 @@
   
   ##
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<a href="https://editor.p5js.org/candygz/full/5yjYKvOM0">
+  <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pikachu-512.png" alt="Play my Pikachiu game :)" width="10%" height="10%">
+</a>
+Play my mini game og PikachIu :)
