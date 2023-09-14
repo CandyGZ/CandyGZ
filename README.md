@@ -11,8 +11,6 @@
 - 👯 I’m looking to collaborate on front-end web & app projects. 
 - 🤔 I’m looking for new and better opportunities.
 - 💬 Feel free to reach me or see my linkedin.
-- 📫 How to reach me: candygz@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact:  I love reptiles
 </br>
 
