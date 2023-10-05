@@ -7,11 +7,11 @@
 <br>
 
 - 🔭 Always ready for work.
-- 🌱 I’m currently learning react native.
-- 👯 I’m looking to collaborate on front-end web & app projects. 
-- 🤔 I’m looking for new and better opportunities.
+- 🌱 Almost all my proyects right now are in JavaScript or Python.
+- 👯 I’m looking to collaborate on front-en,d web & app projects. 
 - 💬 Feel free to reach me or see my linkedin.
 - ⚡ Fun fact:  I love reptiles
+- 🤔 I'm actively seeking new and exciting opportunities, i have a strong passion for AI, blockchain, cryptocurrencies, trading, financial subjects, and initiatives related to social support or improvement.
 </br>
 
   ### SOCIAL:
