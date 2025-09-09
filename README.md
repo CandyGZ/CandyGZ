@@ -6,12 +6,12 @@
 </div>
 <br>
 
-- 🔭 Always ready for work.
-- 🌱 Almost all my proyects right now are in JavaScript or Python.
-- 👯 I’m looking to collaborate on front-en,d web & app projects. 
-- 💬 Feel free to reach me or see my linkedin.
+- 🔭 Always ready to work.
+- 🌱 Almost all my projects right now are in Python, DJango and Openai.
+- 👯 I’m looking to collaborate on front-end, web & app projects. 
+- 💬 Feel free to reach out to me or see my LinkedIn.
 - ⚡ Fun fact:  I love reptiles
-- 🤔 I'm actively seeking new and exciting opportunities, i have a strong passion for AI, blockchain, cryptocurrencies, trading, financial subjects, and initiatives related to social support or improvement.
+- 🤔 I'm actively seeking new and exciting opportunities. I have a strong passion for AI, blockchain, cryptocurrencies, trading, financial subjects, and initiatives related to social support or improvement.
 </br>
 
   ### SOCIAL:
@@ -26,8 +26,9 @@
   
 <div align="center">
   <a href="https://www.github.com/CandyGZ">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CandyGZ&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyGZ&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CandyGZ&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyGZ&layout=compact&langs_count=7&theme=gruvbox"/>
+  </a>
 </div>
 
   ### TECHNOLOGIES:
@@ -46,20 +47,22 @@
 </div>
   <br>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-  <div style="display: inline_block">
+<div style="display: inline-block;">
     <img align="center" alt="Candy-Canva" height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    <img align="center" alt="Candy-Photoshop" height="30"  src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img align="center" alt="Candy-Photoshop" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img align="center" alt="Candy-Styled" height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
     <img align="center" alt="Candy-JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Candy-CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-     <img align="center" alt="Candy-Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img align="center" alt="Candy-Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img align="center" alt="Candy-React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Candy-Native" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-     <img align="center" alt="Candy-Firebase" height="30" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-      <img align="center" alt="Candy-Firebase" height="30" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)">
-    
-    
-  </div>
+    <img align="center" alt="Candy-Native" height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Candy-Django" height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img align="center" alt="Candy-GoogleCloud" height="30" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    <img align="center" alt="Candy-AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img align="center" alt="Candy-AmazonQ" height="30" src="https://img.shields.io/badge/Amazon_Q-9D3BEF?style=for-the-badge&logo=amazonq&logoColor=white">
+    <img align="center" alt="Candy-Jira" height="30" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+    <img align="center" alt="Candy-OpenAI" height="30" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+</div>
   
   ##
   
