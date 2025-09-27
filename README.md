@@ -6,14 +6,18 @@
 </div>
 <br>
 
-- 🔭 Always ready to work.
-- 🌱 Almost all my projects right now are in Python, DJango and Openai.
-- 👯 I’m looking to collaborate on front-end, web & app projects. 
-- 💬 Feel free to reach out to me or see my LinkedIn.
+- 🔭 <img alt="Static Badge" src="https://img.shields.io/badge/Full%20Stack%20Developer-8A2BE2">
 - ⚡ Fun fact:  I love reptiles
 - 🤔 I'm actively seeking new and exciting opportunities. I have a strong passion for AI, blockchain, cryptocurrencies, trading, financial subjects, and initiatives related to social support or improvement.
 </br>
-
+<div> 
+<p style="color: blue;", align="center">
+I help startups and businesses scale through technology.<br>
+I'm also willing to help NGOs on a <img height="130" src="https://img.shields.io/badge/pro--bono-blue"/> basis to achieve their goals through technology.<br>
+I'm open to strategic collaborations based on equity or revenue sharing.<br>
+If you have an ambitious project, let's talk about how I can add value.
+</p>
+</div>
   ### SOCIAL:
   
 <div> 
