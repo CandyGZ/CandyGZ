@@ -48,17 +48,31 @@ jobs:
           plugin_languages_limit: 4
 
      
-      # --- PASO 2: Genera la imagen de Lenguajes ---
-      - name: Recently starred
+ 
+      # --- PASO 3: Genera la imagen con noticias de Hacker News ---
+      - name: Generate Hacker News SVG
         uses: lowlighter/metrics@latest
         with:
-          user: CandyGZ
-          filename: metrics.plugin.stars.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED  # No se necesita token para un feed público
           base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
 
+      # --- PASO 4: Genera la imagen con noticias de Hacker News ---
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: labels      # <-- Muestra "labels" como pediste
+          plugin_topics_sort: activity    # <-- Ordena por "actividad" como pediste
+          plugin_topics_limit: 15 
+
+      # ---  PASO 5 muestra iconos del 4
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
@@ -66,8 +80,8 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-
-
+          plugin_topics_mode: icons      # <-- Muestra iconos
+          plugin_topics_sort: activity    # <-- Ordena por "actividad" como pediste
+          plugin_topics_limit: 15 
+      
         
