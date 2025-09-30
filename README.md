@@ -81,16 +81,13 @@ Play my mini game PikachIu :)
 Demo Robot game in Unity :)
 
 ##
-
-<div align="center">
-  <img src="/metrics.svg" alt="News Feed" />
-</div>
-
-<div align="center">
-  <img src="metrics.plugin.languages.recent.svg)" alt="" />
-</div>
-
-<div align="center">
-  <img src="/metrics.plugin.rss.svg" alt="News Feed" />
-</div>
-
+<table width="200%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="general.svg" alt="Estadísticas Generales" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="metrics.plugin.rss.svg" alt="News Feed" width="100%" />
+    </td>
+  </tr>
+</table>
