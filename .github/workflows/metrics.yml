@@ -25,7 +25,7 @@ jobs:
           filename: metrics.plugin.achievements.svg
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: >-
+          plugin_achievements_only: 
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
           
@@ -36,7 +36,7 @@ jobs:
         with:
           user: CandyGZ
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics.plugin.languages.recent.svg
+          filename: metrics.plugin.languages.indepth.svg
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
