@@ -15,29 +15,32 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+   steps:
+      # --- PASO 1: Genera la imagen de Logros ---
+      - name: Generate Achievements SVG
+        uses: lowlighter/metrics@latest
         with:
-          # Tu nombre de usuario de GitHub
           user: CandyGZ
-          
-          # Token de GitHub - No necesitas cambiar esto
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Nombre del archivo SVG que se generará
-          filename: metrics.svg
-          
-          # --- CONFIGURACIÓN DE QUÉ MOSTRAR ---
-          
-          # Plantilla base (puedes quitar o añadir elementos)
-          base: header, activity, community, repositories, metadata
-          
-          # Configuración del plugin de Logros (Achievements) que querías
+          filename: achievements.svg
+          base: ""
           plugin_achievements: yes
-          plugin_achievements_threshold: S  # Muestra logros de rango S, A, B...
-          plugin_achievements_secrets: yes # Permite mostrar logros "secretos"
-          plugin_achievements_display: detailed # Opciones: compact, detailed
-          plugin_achievements_limit: 0 # 0 significa no poner límite
-          
-          # Configuración de zona horaria para que las estadísticas sean precisas
+          plugin_achievements_threshold: S
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 0
+          config_timezone: America/Mexico_City
+
+      # --- PASO 2: Genera la imagen de Lenguajes ---
+      - name: Generate Languages SVG
+        uses: lowlighter/metrics@latest
+        with:
+          user: CandyGZ
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes      # Análisis a fondo
+          plugin_languages_threshold: 0%     # Umbral para mostrar un lenguaje
+          plugin_languages_limit: 8          # Muestra los 8 lenguajes más usados
           config_timezone: America/Mexico_City
