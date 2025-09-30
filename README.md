@@ -76,6 +76,14 @@ If you have an ambitious project, let's talk about how I can add value.
 Play my mini game PikachIu :)
 <br>
 <a href="https://play.unity.com/en/games/8ca67447-1589-4d61-a917-d5f1eeebad5e/robot-unity)">
-  <img src="[https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pikachu-512.png](https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_robot_game-512.png)" alt="Demo Robot game in Unity :)" width="10%" height="10%">
+  <img src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_robot_game-512.png" alt="Demo Robot game in Unity :)" width="10%" height="10%">
 </a>
 Demo Robot game in Unity :)
+
+##
+
+ <td  align="center">
+        <details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
+        <details><summary>Detailed display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
