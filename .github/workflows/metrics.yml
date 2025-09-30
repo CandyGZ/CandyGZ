@@ -18,14 +18,15 @@ jobs:
      contents: write
     steps:
       # --- PASO 1: Genera la imagen de Logros ---
-      - name: Generate Achievements SVG
+      - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
-          user: CandyGZ
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer
+
           
           
 
@@ -33,7 +34,6 @@ jobs:
       - name: Generate Languages SVG
         uses: lowlighter/metrics@latest
         with:
-          user: CandyGZ
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.languages.indepth.svg
           base: ""
