@@ -87,7 +87,7 @@ Demo Robot game in Unity :)
 </div>
 
 <div align="center">
-  <img src="metrics.plugin.languages.recent.svg)" alt="News Feed" />
+  <img src="metrics.plugin.languages.recent.svg)" alt="" />
 </div>
 
 <div align="center">
