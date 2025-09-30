@@ -82,8 +82,15 @@ Demo Robot game in Unity :)
 
 ##
 
- <td  align="center">
-        <details open><summary>Compact display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
-        <details><summary>Detailed display</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
+<div align="center">
+  <img src="/metrics.svg" alt="News Feed" />
+</div>
+
+<div align="center">
+  <img src="metrics.plugin.languages.recent.svg)" alt="News Feed" />
+</div>
+
+<div align="center">
+  <img src="/metrics.plugin.rss.svg" alt="News Feed" />
+</div>
+
