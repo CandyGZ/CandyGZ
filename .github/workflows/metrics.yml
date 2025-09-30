@@ -4,7 +4,7 @@ on:
   # Se ejecuta cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
-  # Permite ejecutarlo manualmente desde la pestaña Actions
+  # Permite ejecutarlo manualmente desde la pestaña Actions-
   workflow_dispatch:
   # Se ejecuta también cuando haces un push a la rama main
   push:
