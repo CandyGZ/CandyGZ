@@ -36,6 +36,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: CandyGZ
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: languages.svg
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
