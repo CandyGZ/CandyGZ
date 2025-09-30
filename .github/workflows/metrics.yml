@@ -1,0 +1,43 @@
+# Archivo: .github/workflows/metrics.yml
+name: GitHub Metrics
+on:
+  # Se ejecuta cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+  # Se ejecuta también cuando haces un push a la rama main
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tu nombre de usuario de GitHub
+          user: CandyGZ
+          
+          # Token de GitHub - No necesitas cambiar esto
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Nombre del archivo SVG que se generará
+          filename: metrics.svg
+          
+          # --- CONFIGURACIÓN DE QUÉ MOSTRAR ---
+          
+          # Plantilla base (puedes quitar o añadir elementos)
+          base: header, activity, community, repositories, metadata
+          
+          # Configuración del plugin de Logros (Achievements) que querías
+          plugin_achievements: yes
+          plugin_achievements_threshold: S  # Muestra logros de rango S, A, B...
+          plugin_achievements_secrets: yes # Permite mostrar logros "secretos"
+          plugin_achievements_display: detailed # Opciones: compact, detailed
+          plugin_achievements_limit: 0 # 0 significa no poner límite
+          
+          # Configuración de zona horaria para que las estadísticas sean precisas
+          config_timezone: America/Mexico_City
