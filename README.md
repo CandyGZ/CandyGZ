@@ -8,7 +8,7 @@
 
 - 🔭 <img alt="Static Badge" src="https://img.shields.io/badge/Full%20Stack%20Developer-8A2BE2">
 - ⚡ Fun fact:  I love reptiles
-- 🤔 I'm actively seeking new and exciting opportunities. I have a strong passion for AI, blockchain, cryptocurrencies, trading, financial subjects, and initiatives related to social support or improvement.
+- 🤔 I'm actively seeking new and exciting opportunities. I have a strong passion for AI, blockchain, cryptocurrencies, trading, financial subjects, and initiatives related to social support or improvement, especially topics concerning education and child protection.
 </br>
 <div> 
 <p style="color: blue;", align="center">
