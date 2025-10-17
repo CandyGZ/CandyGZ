@@ -18,8 +18,8 @@ I'm open to strategic collaborations based on equity or revenue sharing.<br>
 If you have an ambitious project, let's talk about how I can add value.
 </p>
 </div>
-  ### SOCIAL:
   
+  ### SOCIAL:
 <div> 
  	<a href="https://github.com/CandyGZ" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href = "mailto:candygz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -76,7 +76,7 @@ If you have an ambitious project, let's talk about how I can add value.
 Play my mini game PikachIu :)
 <br>
 <a href="https://play.unity.com/en/games/8ca67447-1589-4d61-a917-d5f1eeebad5e/robot-unity)">
-  <img src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_robot_game-512.png" alt="Demo Robot game in Unity :)" width="10%" height="10%">
+  <img src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif" alt="Demo Robot game in Unity :)" width="10%" height="10%">
 </a>
 Demo Robot game in Unity :)
 
