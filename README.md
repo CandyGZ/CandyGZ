@@ -19,8 +19,6 @@ If you have an ambitious project, let's talk about how I can add value.
 </p>
 </div>
 
-🔗 [¿ Quieres ver qué es lo último en lo que he trabajado en GitHub ?](https://candygz.github.io/CV-from-git/)
-*Generado automáticamente desde mis repositorios de GitHub usando IA*
   
   ### SOCIAL:
 <div> 
@@ -99,5 +97,5 @@ Demo Robot game in Unity :)
 
 [<img align="center" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
-
+🔗 [¿ Quieres ver qué es lo último en lo que he trabajado en GitHub ?:](https://candygz.github.io/CV-from-git/)
 
