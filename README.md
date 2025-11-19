@@ -18,6 +18,9 @@ I'm open to strategic collaborations based on equity or revenue sharing.<br>
 If you have an ambitious project, let's talk about how I can add value.
 </p>
 </div>
+
+🔗 [¿ Quieres ver qué es lo último en lo que he trabajado en GitHub ?](https://candygz.github.io/CV-from-git/)
+*Generado automáticamente desde mis repositorios de GitHub usando IA*
   
   ### SOCIAL:
 <div> 
