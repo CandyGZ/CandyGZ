@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What's up with all those equals signs anyway?</div>
+                                <div class="title">Qwen3-Coder-Next</div>
                                 <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</div>
+                                <div class="title">Xcode 26.3 unlocks the power of agentic coding</div>
                                 <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)</div>
+                                <div class="title">Deno Sandbox</div>
                                 <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Codex App</div>
-                                <div class="date">2 Feb 2026</div>
+                                <div class="title">Agent Skills</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                     </section>
